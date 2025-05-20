@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: My homepage
-description: some text
+#logo: add relative path for profile picture here
+description: My GIS portfolio
